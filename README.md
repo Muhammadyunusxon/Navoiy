@@ -1,6 +1,6 @@
 # navoiy
 
-Navoiy dasturi Ustozim @Jamshid1901
+Ustozim @Jamshid1901 ning Navoiy dasturlari asosida tayyorlangan
 
 ## Getting Started
 
