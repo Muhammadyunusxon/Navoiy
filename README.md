@@ -1,6 +1,6 @@
 # navoiy
 
-Navoiy dasturi
+Navoiy dasturi Ustozim @Jamshid1901
 
 ## Getting Started
 
